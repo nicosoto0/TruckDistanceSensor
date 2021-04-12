@@ -1,0 +1,10 @@
+{
+  "distance_sensor": [
+    {
+      "echo": 17,
+      "trigger": 4,
+      "max_distance": 3,
+      "threshold_distance": 1
+    }
+  ]
+}
