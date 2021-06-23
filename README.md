@@ -11,5 +11,12 @@ tr -d "\r" <run_launcher.sh> run_launcher.sh
 
 ## Guia para flashear SD con Raspbian OS
 
-Source Guide: 
+Source Guide:
 https://www.youtube.com/watch?v=xBlxuf_LSCM&ab_channel=Refactored
+
+
+ advanced ip scanner
+
+
+Remote access: 
+IP: 169.254.86.63

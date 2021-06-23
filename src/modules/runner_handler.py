@@ -25,14 +25,15 @@ def run_proximity_switch(config: SectionProxy,
 
     print("RUNNING proximity_switch_procedure()")
 
-    ## -- LOAD NECESARY ARGUMENTS --
+    ## -- LOAD NECESARY ARGUMENTS FROM JSON CONFIG FILE --
     #json_file = load_json_file(config['CONFIG_JSON_FILE'])
     #print(f"Loaded json file type: {type(json_file)}")
 
 
     ## -- RUN PROCEDURE --
     proximity_switch_procedure(args.max_distance,
-                               args.threshold_distance)
+                               args.threshold_distance,
+                               args.max_time_on)
 
 def run_test_sensors(config: SectionProxy,
                      args: Namespace) -> None:
