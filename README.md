@@ -15,8 +15,6 @@ Source Guide:
 https://www.youtube.com/watch?v=xBlxuf_LSCM&ab_channel=Refactored
 
 
- advanced ip scanner
 
-
-Remote access: 
+## Remote access: 
 IP: 169.254.86.63
